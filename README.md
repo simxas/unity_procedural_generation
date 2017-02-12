@@ -1,3 +1,3 @@
 # Playing with Unity and Procedural Generation.
 
-Using Perlin Noise.
+Experimenting, learning, using Perlin Noise. Pushing to github only my scripts, not the full project, just for future reference in my other projects. Currently there are three scenes. Each scene using their own scripts. GenerateLandscape.cs is for first scene, then GenerateTerrain.cs and GenerateInfinite.cs for another scene and for the last scene all scripts are in procedural_landmass folder.
